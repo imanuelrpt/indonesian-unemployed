@@ -1,82 +1,74 @@
-# Siapa yang Paling Sulit Dapat Kerja di Indonesia?
+# 🎮 Imanuel Rodericus Parlindunggun
 
-Analisis Tingkat Pengangguran Terbuka Berdasarkan Pendidikan, Usia, Gender, dan Wilayah
+## 👨‍💻 Data Analyst | Web Developer
 
-## Tujuan
-
-Menjawab pertanyaan: **siapa yang paling sulit mendapatkan kerja** di Indonesia berdasarkan data BPS Sakernas, dan bagaimana pemandangan ini berubah seiring waktu berdasarkan pendidikan, usia, gender, dan wilayah.
-
-## Maksud
-
-Proyek ini menganalisis data Tingkat Pengangguran Terbuka (TPT) di Indonesia dari tahun 2008 hingga 2025 menggunakan sumber data BPS (Badan Pusat Statistik) dari survei Sakernas. Tujuan menciptakan data analisis yang terverifikasi dan visualisasi yang jelas untuk memahami pola pengangguran di berbagai segmentar populasi.
-
-## Insight Utama
-
-1. **Lulusan SMK memiliki TPT tertinggi** (sekitar 9,01% Agustus 2024), hampir ganda lipat TPT lulusan SD (2,42%). Ini menunjukkan bahwa keterampilan lulusan SMK masih tidak sejalan dengan butuhan pasar kerja.
-2. **Pemuda 15-19 tahun berisiko sangat tinggi** (TPT 23,34% pada 2025), lebih lipat lipat dari usia 25-59 (~4,9%). Membutuhkan intervensi dini sebelum lulus SMA.
-3. **Tidak ada selisih signifikan antara laki-laki dan perempuan** pada 2025 (4,85% vs 4,84%), namun kesenjangan ada di tingkat daerah: Perkotaan 5,75% vs Perdesaan 3,47%.
-4. **Wilayah geografis mempengaruhi akses kerja dengan rentan 5x lipat** antara Jawa Barat (6,75%) dan Papua Pegunungan (1,32%).
-5. **Lulusan pendidikan tinggi tetap kompetitif** (Sarjana TPT 5,25%), menentang narasi umum bahwa lulusan tinggi kesulitan menemukan kerja.
-6. **Porsi pekerja informal sangat tinggi pada lulusan rendah** (SD 94,2%, SMA 67%), menunjukkan lulusan pendidikan rendah "dapat kerja" namun pekerjaan berkualitas rendah (informal, jam kerja pendek).
-7. **Tren nasional menurun sejak 2015** (6,18% ke 4,91%), namun 2025 menunjukkan naik kembali karena metode survei triwulanan baru — tidak boleh dibandingkan langsung dengan tahun sebelumnya.
-8. **Partisipasi kerja tinggi (TPAK) tidak menjamin TFT rendah** — korelasi hanya r=0,1 di level provinsi, membongkar asumsi populasi tentang "susah cari kerja".
-9. **Setengah pengangguran ( bekerja < 35 jam/minggu) paling banyak pada lulusan SD** (8,81%), memperkuat konsep underemployment (bekerja tapi tidak sepenuhnya).
-10. **Struktur pekerjaan pemuda sudah lama berlanjut tanpa perubahan signifikan** dari 2015 ke 2024 — rasio TFT usia 15-19 terhadap rata-rata 25-59 tetap 5-10x lipat.
-
-## Sumber Data
-
-Semua data diambil dari **BPS (Badan Pusat Statistik)** melalui situs bps.go.id. Setiap file mentah diunduh menggunakan tombol "Unduh CSV" pada halaman tabel statistik.
-
-Berkas CSV mentah disimpan di `data/raw/`, dan hasil pembersihan diolah menjadi 12 tabel analisis di `data/processed/`. Semua logika pembersihan ada di `src/cleaning.py`, serta 11 fungsi grafik di `src/plots.py`.
+**Bekasi, Indonesia** · 🌟 Open to Remote/Full-time Work  
+**📧:** imanuelrpt13@gmail.com · 💼:** [LinkedIn](https://www.linkedin.com/in/imanueltempo/)
 
 ---
 
-## Grafik Utama
+# 🚀 Hal Urgennya: Saya Data Analyst!
 
-Berikut adalah 11 grafik utama yang menggambarkan insight di atas:
+Hai perindon! ✨  
+Biar gak salah target, saya Imanuel, lulusan Informatika yang lagi fokus karir di **Data Analyst**.  
+Sebelumnya lagi nge-code web pake PHP/MySQL, tapi sekarang lagi fokus ngolah data jadi insigh yang bikin langsung dipakai pengambilan keputusan.
 
-![Tren TPT Nasional 2008-2024](pengangguran-pendidikan-indonesia/outputs/figures/01_tren_tpt_nasional_2008_2024.png)
-
-*Tren TPT nasional turun dari 6,18% (Agustus 2015) ke 4,91% (Agustus 2024), dengan titik 2025 terpisah due to metode triwulanan baru.*
-
-![TPT per Jenjang Pendidikan 2015-2024](pengangguran-pendidikan-indonesia/outputs/figures/02_tpt_pendidikan_2015_2024.png)
-
-*Lulusan SMK selalu memiliki TPT tertinggi (sekitar 8-9% Agustus), hampir ganda lipat TPT SD (2-3%). Lulusan Sarjana justru paling "aman" dengan TPT 5-6%.*
-
-![Perbandingan TFT 2024 vs 2025](pengangguran-pendidikan-indonesia/outputs/figures/03_tpt_2024_2025.png)
-
-*Polas tetap terjaga di 2025: SMK masih paling sulit (TPT ~8,6% → 8,3% sedikit turun), hanya Sarjana yang TFT-nya naik sedikit (5,25% → 5,39%).*
-
-![TPT Menurut Kelompok Usia 2024](pengangguran-pendidikan-indonesia/outputs/figures/04_tpt_kelompok_umur_2024.png)
-
-*TPT usia 15–19 tahun = 23,34% (2025 snapshot) – lebih lipat lipat dari usia 25–59 (~4,9%). Pemuda berisiko ekstrem menjadi penganggur.*
-
-![Gender & Kota vs Desa 2025](pengangguran-pendidikan-indonesia/outputs/figures/05_tpt_gender_dan_daerah_2025.png)
-
-*Tidak ada selisih signifikan antara laki-laki (4,85%) dan perempuan (4,84%) pada 2025. Perkotaan 5,75% vs Perdesaan 3,47% — pengangguran lebih tinggi di kota.*
-
-![TPT Provinsi 2024](pengangguran-pendidikan-indonesia/outputs/figures/06_tpt_provinsi_2024.png)
-
-*Jawa Barat memiliki TFT tertinggi (6,75% Agustus 2024), sementara Papua Pegunungan paling mudah (1,32%). Rentan maksimal vs minimal hingga 5x lipat.*
-
-![Heatmap TFT Provinsi 2015-2024](pengangguran-pendidikan-indonesia/outputs/figures/07_heatmap_tpt_provinsi.png)
-
-*Hanya segelintir provinsi pernah menembus TFT 7,5% — dan itu berulang di provinsi yang sama. Sel abu-abu = data belum tersedia.*
-
-![TFT vs Informalitas](pengangguran-pendidikan-indonesia/outputs/figures/08_tpt_vs_informalitas.png)
-
-*Korelasi positif kuat: semakin rendah jenjang pendidikan, semakin besar peluang pekerja informal (SD 94,2%, SMA 67%, Sarjana 17,3%). Namun TFT-nya justru rendah di SD (2,42%).*
-
-![Setengah Pengangguran 2025](pengangguran-pendidikan-indonesia/outputs/figures/09_setengah_pengangguran_2025.png)
-
-*Lulusan SD ke bawah memiliki tingkat setengah pengangguran tertinggi (8,81%), artinya mereka bekerja tapi jam kerjanya di bawah 35 jam/minggu. Sarjana punya setengah pengangguran paling rendah (5,29%).*
-
-![Rasio Pemuda vs Dewasa](pengangguran-pendidikan-indonesia/outputs/figures/10_rasio_umur_muda.png)
-
-*Rasio TFT usia 15–19 terhadap rata-rata usia 25–59 berkisar 5-10x lipat melalui seluruh 2015-2024. Tingkatnya tidak membaik signifikan dari 2015 ke 2024.*
-
-![TPAK vs TFT Provinsi 2026](pengangguran-pendidikan-indonesia/outputs/figures/11_tpak_vs_tpt_provinsi_2026.png)
-
-*Partisipasi kerja tinggi (TPAK) tidak menjamin TFT rendah — korelasi sekitar r=0,1 di level provinsi. Beberapa provinsi dengan TPAK di atas 70% tetap memiliki TFT di atas 6%.*
+**Motto gw:** *"Data yang bersih = Keputusan yang pasti. Kode yang rapi = Hatinya nyaman."*
 
 ---
+
+# 🎯 What Saya Bisa (Skills)
+
+| Kategori | Tools & Tech |
+|----------|------------|
+| **📊 Data Analysis** | Python, pandas, numpy, seaborn, matplotlib, SQL |
+| **🧹 Data Cleaning** | Regex, handling missing values, outlier detection, normalisasi |
+| **📈 Visualisasi** | Matplotlib, seaborn, plotly, bar chart, histogram, heatmap |
+| **🗄️ Database** | MySQL, PostgreSQL, MongoDB, phpMyAdmin |
+| **💻 Web** | PHP, CodeIgniter, HTML/CSS, JavaScript, Bootstrap |
+| **📦 Package** | scipy, jupyterlab, nbformat, openpyxl, python-dotenv |
+
+---
+
+# 🎁 Proyek Unggulan Saya
+
+Saya lagi randomin proyek Data Analyst yang bikin bisa langsung dipake. Ada yang lagi saya push ke repo nih:
+
+## 1. 📊 **Siapa yang Paling Sulit Dapat Kerja di Indonesia?**
+- **Analisis:** Tingkat Pengangguran Terbuka (TPT) berdasarkan pendidikan, usia, gender, wilayah
+- **Data:** 16 file mentah BPS Sakernas 2008–2025, 12 tabel analisis, 11 visualisasi
+- **Insight krak:** Lulusan SMK punya TPT tertinggi (9,01%), pemuda 15-19 risiko tinggi (23,34%), Jawa Barat jadi provinsi dengan TFT tertinggi
+- **Status:** ⬅️ **UDah dipublish ke GitHub!** (lihat repo `imanuelrpt/indonesian-unemployed`)
+
+## 2. 📦 **E-Commerce Behavior Tokopedia**
+- **Pertanyaan:** Apakah diskon dan rating benar-benar menaikkan penjualan?
+- **Tools:** Python, pandas, SciPy
+- **Hasil:** Ada korelasi positif tapi aneh — discount 10% bikin lonjakan penjualan 15%, tapi rating 5 bintang cuma nambah 3% aja jadi nggak sebegitu besar
+
+## 3. 🛒 **Sistem Kasir Sederhana (Web)**
+- **Fungsi:** Input transaksi, hitung total, cetak struk minimalis
+- **Tools:** PHP, CodeIgniter 4, MySQL, Chart.js
+- **Status:** Sudah running di lingkungan lokal bisa dipublish kalau butuh
+
+---
+
+# 💡 Filosofi Saya
+
+> *"Saya suka cara kerja yang bisa dicek ulang.  
+> Kode yang rapi, data yang bersih, dan kesimpulan yang jelas.  
+> Biar tiap kerjaannya nggak cuma sekadar 'selesai', tapi bikin orang pakenya nyaman dan bisa di-*reproduce*.*"  
+
+---
+
+# 📫 Kontak
+
+**Saya aberto nih kerja atau kolaborasi Data Analyst:**  
+📧 **Email:** imanuelrpt13@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/imanueltempo](https://www.linkedin.com/in/imanueltempo/)  
+🐦 **GitHub:** [@imanuelrpt](https://github.com/imanuelrpt)  
+
+*Selalu update di GitHub aja ya! Push repository bareng anjingan terbaru.*
+
+---
+
+*⚡ Dibuat dengan ❤️ di Bekasi, 2026. Bisa dipakai buat cover letter atau buat portfolio.*
