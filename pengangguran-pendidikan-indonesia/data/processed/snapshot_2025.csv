@@ -1,0 +1,23 @@
+dimensi,kategori,tahun,nilai,satuan,judul_tabel,sumber_file
+pendidikan,Tidak/Belum Pernah Sekolah/Belum Tamat & Tamat SD,2025,2.3,persen,Tingkat Pengangguran Terbuka Berdasarkan Tingkat Pendidikan,bps_tpt_pendidikan_2025.csv
+pendidikan,SMP,2025,3.8,persen,Tingkat Pengangguran Terbuka Berdasarkan Tingkat Pendidikan,bps_tpt_pendidikan_2025.csv
+pendidikan,SMA umum,2025,6.88,persen,Tingkat Pengangguran Terbuka Berdasarkan Tingkat Pendidikan,bps_tpt_pendidikan_2025.csv
+pendidikan,SMA Kejuruan,2025,8.63,persen,Tingkat Pengangguran Terbuka Berdasarkan Tingkat Pendidikan,bps_tpt_pendidikan_2025.csv
+pendidikan,Diploma I/II/III,2025,4.31,persen,Tingkat Pengangguran Terbuka Berdasarkan Tingkat Pendidikan,bps_tpt_pendidikan_2025.csv
+pendidikan,Universitas,2025,5.39,persen,Tingkat Pengangguran Terbuka Berdasarkan Tingkat Pendidikan,bps_tpt_pendidikan_2025.csv
+jenis_kelamin,Laki-Laki,2025,4.85,persen,Tingkat Pengangguran Terbuka Berdasarkan Jenis Kelamin,bps_tpt_jenis_kelamin_2025.csv
+jenis_kelamin,Perempuan,2025,4.84,persen,Tingkat Pengangguran Terbuka Berdasarkan Jenis Kelamin,bps_tpt_jenis_kelamin_2025.csv
+daerah,Perkotaan,2025,5.75,persen,Tingkat Pengangguran Terbuka Berdasarkan Daerah Tempat Tinggal,bps_tpt_kota_desa_2025.csv
+daerah,Perdesaan,2025,3.47,persen,Tingkat Pengangguran Terbuka Berdasarkan Daerah Tempat Tinggal,bps_tpt_kota_desa_2025.csv
+daerah,Perkotaan + Perdesaan,2025,4.85,persen,Tingkat Pengangguran Terbuka Berdasarkan Daerah Tempat Tinggal,bps_tpt_kota_desa_2025.csv
+kelompok_umur,15-19,2025,23.34,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,20-24,2025,14.35,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,25-29,2025,6.67,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,30-34,2025,3.47,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,35-39,2025,2.35,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,40-44,2025,1.86,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,45-49,2025,1.96,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,50-54,2025,1.74,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,55-59,2025,1.73,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,60 keatas,2025,1.71,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv
+kelompok_umur,Rata-Rata,2025,4.85,persen,Tingkat Pengangguran Terbuka Berdasarkan Kelompok Umur,bps_tpt_kelompok_umur_2025.csv

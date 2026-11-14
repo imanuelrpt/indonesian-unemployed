@@ -1,0 +1,51 @@
+tabel,cek,nilai,status,catatan
+tpt_nasional_pendidikan,jumlah baris,306.0,info,
+tpt_nasional_pendidikan,"duplikat pada ['periode', 'pendidikan']",0.0,OK,
+tpt_nasional_pendidikan,tpt di luar 0-100,0.0,OK,"min=0.77, max=17.26"
+tpt_nasional_pendidikan,tpt kosong (NaN),0.0,info,"kosong dibiarkan, tidak diimputasi"
+tpt_nasional_pendidikan,pengangguran > angkatan kerja,0.0,OK,
+tpt_nasional_pendidikan,jumlah rincian vs baris Indonesia (orang),0.0,OK,tidak ada selisih
+tpt_provinsi,jumlah baris,1198.0,info,
+tpt_provinsi,"duplikat pada ['periode', 'kode_provinsi']",0.0,OK,
+tpt_provinsi,tpt di luar 0-100,0.0,OK,"min=0.88, max=15.18"
+tpt_provinsi,tpt kosong (NaN),14.0,info,"kosong dibiarkan, tidak diimputasi"
+tpt_provinsi,pengangguran > angkatan kerja,0.0,OK,
+tpt_provinsi,jumlah rincian vs baris Indonesia (orang),0.0,OK,tidak ada selisih
+tpt_nasional_umur,jumlah baris,374.0,info,
+tpt_nasional_umur,"duplikat pada ['periode', 'kelompok_umur']",0.0,OK,
+tpt_nasional_umur,tpt di luar 0-100,0.0,OK,"min=0.41, max=32.16"
+tpt_nasional_umur,tpt kosong (NaN),0.0,info,"kosong dibiarkan, tidak diimputasi"
+formal_informal_pendidikan,jumlah baris,306.0,info,
+formal_informal_pendidikan,"duplikat pada ['periode', 'pendidikan']",0.0,OK,
+formal_informal_pendidikan,porsi_informal di luar 0-100,0.0,OK,"min=7.97, max=95.01"
+formal_informal_pendidikan,porsi_informal kosong (NaN),0.0,info,"kosong dibiarkan, tidak diimputasi"
+silang,"total bekerja (status) vs bekerja (pendidikan), orang",0.0,OK,selisih terbesar seluruh periode
+snapshot_2025,jumlah baris,22.0,info,
+snapshot_2025,"duplikat pada ['dimensi', 'kategori']",0.0,OK,
+snapshot_2025,nilai di luar 0-100,0.0,OK,"min=1.71, max=23.34"
+snapshot_2025,nilai kosong (NaN),0.0,info,"kosong dibiarkan, tidak diimputasi"
+informal_pendidikan_2023,jumlah baris,9.0,info,
+informal_pendidikan_2023,"duplikat pada ['tahun', 'kategori']",0.0,OK,
+informal_pendidikan_2023,nilai di luar 0-100,0.0,OK,"min=17.30, max=93.00"
+informal_pendidikan_2023,nilai kosong (NaN),0.0,info,"kosong dibiarkan, tidak diimputasi"
+tpt_pendidikan_2024_2025,jumlah baris,18.0,info,
+tpt_pendidikan_2024_2025,"duplikat pada ['periode', 'kelompok_pendidikan']",0.0,OK,
+tpt_pendidikan_2024_2025,tpt di luar 0-100,0.0,OK,"min=2.30, max=9.01"
+tpt_pendidikan_2024_2025,tpt kosong (NaN),0.0,info,"kosong dibiarkan, tidak diimputasi"
+tpt_pendidikan_2024_2025,jumlah jenjang per periode,6.0,OK,harus 6 jenjang pada tiap periode
+setengah_pengangguran_pendidikan_2025,jumlah baris,6.0,info,
+setengah_pengangguran_pendidikan_2025,"duplikat pada ['tahun', 'kategori']",0.0,OK,
+setengah_pengangguran_pendidikan_2025,nilai di luar 0-100,0.0,OK,"min=4.58, max=8.81"
+setengah_pengangguran_pendidikan_2025,nilai kosong (NaN),0.0,info,"kosong dibiarkan, tidak diimputasi"
+tpt_provinsi_triwulanan,jumlah baris,234.0,info,
+tpt_provinsi_triwulanan,"duplikat pada ['periode', 'kode_provinsi']",0.0,OK,
+tpt_provinsi_triwulanan,tpt di luar 0-100,0.0,OK,"min=1.42, max=7.12"
+tpt_provinsi_triwulanan,tpt kosong (NaN),0.0,info,"kosong dibiarkan, tidak diimputasi"
+tpak_provinsi,jumlah baris,39.0,info,
+tpak_provinsi,"duplikat pada ['periode', 'kode_provinsi']",0.0,OK,
+tpak_provinsi,tpak di luar 0-100,0.0,OK,"min=63.03, max=85.87"
+tpak_provinsi,tpak kosong (NaN),0.0,info,"kosong dibiarkan, tidak diimputasi"
+silang,pengangguran nasional vs total provinsi 2024-02,0.0,OK,"pendidikan=7,194,862, provinsi=7,194,862"
+silang,pengangguran nasional vs total provinsi 2024-08,0.0,OK,"pendidikan=7,465,599, provinsi=7,465,599"
+tpt_nasional_pendidikan,"baris 'Tak terjawab' dibuang (AK=0, TPT tidak terdefinisi)",33.0,info,kategori tetap ada di raw; hanya dihapus dari tabel analisis
+bps_status_pekerjaan_pendidikan_2008_2024.csv,blok 2024 ganda dilewati,1.0,info,BPS mengulang blok 2024 dengan 6 kategori; dipakai blok 8 kategori

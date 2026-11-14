@@ -1,0 +1,235 @@
+kode_provinsi,provinsi,periode,tpt,sumber_file
+11,Aceh,2025-02,5.5,bps_tpt_provinsi_triwulanan_2025.csv
+11,Aceh,2025-08,5.64,bps_tpt_provinsi_triwulanan_2025.csv
+11,Aceh,2025-11,5.6,bps_tpt_provinsi_triwulanan_2025.csv
+12,Sumatera Utara,2025-02,5.05,bps_tpt_provinsi_triwulanan_2025.csv
+12,Sumatera Utara,2025-08,5.32,bps_tpt_provinsi_triwulanan_2025.csv
+12,Sumatera Utara,2025-11,5.28,bps_tpt_provinsi_triwulanan_2025.csv
+13,Sumatera Barat,2025-02,5.69,bps_tpt_provinsi_triwulanan_2025.csv
+13,Sumatera Barat,2025-08,5.62,bps_tpt_provinsi_triwulanan_2025.csv
+13,Sumatera Barat,2025-11,5.52,bps_tpt_provinsi_triwulanan_2025.csv
+14,Riau,2025-02,4.12,bps_tpt_provinsi_triwulanan_2025.csv
+14,Riau,2025-08,4.16,bps_tpt_provinsi_triwulanan_2025.csv
+14,Riau,2025-11,4.06,bps_tpt_provinsi_triwulanan_2025.csv
+15,Jambi,2025-02,4.48,bps_tpt_provinsi_triwulanan_2025.csv
+15,Jambi,2025-08,4.26,bps_tpt_provinsi_triwulanan_2025.csv
+15,Jambi,2025-11,4.08,bps_tpt_provinsi_triwulanan_2025.csv
+16,Sumatera Selatan,2025-02,3.89,bps_tpt_provinsi_triwulanan_2025.csv
+16,Sumatera Selatan,2025-08,3.69,bps_tpt_provinsi_triwulanan_2025.csv
+16,Sumatera Selatan,2025-11,3.59,bps_tpt_provinsi_triwulanan_2025.csv
+17,Bengkulu,2025-02,3.24,bps_tpt_provinsi_triwulanan_2025.csv
+17,Bengkulu,2025-08,3.41,bps_tpt_provinsi_triwulanan_2025.csv
+17,Bengkulu,2025-11,3.37,bps_tpt_provinsi_triwulanan_2025.csv
+18,Lampung,2025-02,4.07,bps_tpt_provinsi_triwulanan_2025.csv
+18,Lampung,2025-08,4.21,bps_tpt_provinsi_triwulanan_2025.csv
+18,Lampung,2025-11,4.14,bps_tpt_provinsi_triwulanan_2025.csv
+19,Kep. Bangka Belitung,2025-02,4.17,bps_tpt_provinsi_triwulanan_2025.csv
+19,Kep. Bangka Belitung,2025-08,4.45,bps_tpt_provinsi_triwulanan_2025.csv
+19,Kep. Bangka Belitung,2025-11,4.3,bps_tpt_provinsi_triwulanan_2025.csv
+21,Kep. Riau,2025-02,6.89,bps_tpt_provinsi_triwulanan_2025.csv
+21,Kep. Riau,2025-08,6.45,bps_tpt_provinsi_triwulanan_2025.csv
+21,Kep. Riau,2025-11,6.35,bps_tpt_provinsi_triwulanan_2025.csv
+??,Dki Jakarta,2025-02,6.18,bps_tpt_provinsi_triwulanan_2025.csv
+??,Dki Jakarta,2025-08,6.05,bps_tpt_provinsi_triwulanan_2025.csv
+??,Dki Jakarta,2025-11,6.31,bps_tpt_provinsi_triwulanan_2025.csv
+32,Jawa Barat,2025-02,6.74,bps_tpt_provinsi_triwulanan_2025.csv
+32,Jawa Barat,2025-08,6.77,bps_tpt_provinsi_triwulanan_2025.csv
+32,Jawa Barat,2025-11,6.66,bps_tpt_provinsi_triwulanan_2025.csv
+33,Jawa Tengah,2025-02,4.33,bps_tpt_provinsi_triwulanan_2025.csv
+33,Jawa Tengah,2025-08,4.66,bps_tpt_provinsi_triwulanan_2025.csv
+33,Jawa Tengah,2025-11,4.32,bps_tpt_provinsi_triwulanan_2025.csv
+34,DI Yogyakarta,2025-02,3.18,bps_tpt_provinsi_triwulanan_2025.csv
+34,DI Yogyakarta,2025-08,3.46,bps_tpt_provinsi_triwulanan_2025.csv
+34,DI Yogyakarta,2025-11,3.3,bps_tpt_provinsi_triwulanan_2025.csv
+35,Jawa Timur,2025-02,3.61,bps_tpt_provinsi_triwulanan_2025.csv
+35,Jawa Timur,2025-08,3.88,bps_tpt_provinsi_triwulanan_2025.csv
+35,Jawa Timur,2025-11,3.71,bps_tpt_provinsi_triwulanan_2025.csv
+36,Banten,2025-02,6.64,bps_tpt_provinsi_triwulanan_2025.csv
+36,Banten,2025-08,6.69,bps_tpt_provinsi_triwulanan_2025.csv
+36,Banten,2025-11,6.63,bps_tpt_provinsi_triwulanan_2025.csv
+51,Bali,2025-02,1.58,bps_tpt_provinsi_triwulanan_2025.csv
+51,Bali,2025-08,1.49,bps_tpt_provinsi_triwulanan_2025.csv
+51,Bali,2025-11,1.45,bps_tpt_provinsi_triwulanan_2025.csv
+52,Nusa Tenggara Barat,2025-02,3.22,bps_tpt_provinsi_triwulanan_2025.csv
+52,Nusa Tenggara Barat,2025-08,3.06,bps_tpt_provinsi_triwulanan_2025.csv
+52,Nusa Tenggara Barat,2025-11,3.05,bps_tpt_provinsi_triwulanan_2025.csv
+53,Nusa Tenggara Timur,2025-02,3.23,bps_tpt_provinsi_triwulanan_2025.csv
+53,Nusa Tenggara Timur,2025-08,3.31,bps_tpt_provinsi_triwulanan_2025.csv
+53,Nusa Tenggara Timur,2025-11,3.1,bps_tpt_provinsi_triwulanan_2025.csv
+61,Kalimantan Barat,2025-02,4.23,bps_tpt_provinsi_triwulanan_2025.csv
+61,Kalimantan Barat,2025-08,4.82,bps_tpt_provinsi_triwulanan_2025.csv
+61,Kalimantan Barat,2025-11,4.63,bps_tpt_provinsi_triwulanan_2025.csv
+62,Kalimantan Tengah,2025-02,3.47,bps_tpt_provinsi_triwulanan_2025.csv
+62,Kalimantan Tengah,2025-08,3.97,bps_tpt_provinsi_triwulanan_2025.csv
+62,Kalimantan Tengah,2025-11,3.44,bps_tpt_provinsi_triwulanan_2025.csv
+63,Kalimantan Selatan,2025-02,3.94,bps_tpt_provinsi_triwulanan_2025.csv
+63,Kalimantan Selatan,2025-08,4.16,bps_tpt_provinsi_triwulanan_2025.csv
+63,Kalimantan Selatan,2025-11,4.1,bps_tpt_provinsi_triwulanan_2025.csv
+64,Kalimantan Timur,2025-02,5.33,bps_tpt_provinsi_triwulanan_2025.csv
+64,Kalimantan Timur,2025-08,5.18,bps_tpt_provinsi_triwulanan_2025.csv
+64,Kalimantan Timur,2025-11,5.2,bps_tpt_provinsi_triwulanan_2025.csv
+65,Kalimantan Utara,2025-02,3.9,bps_tpt_provinsi_triwulanan_2025.csv
+65,Kalimantan Utara,2025-08,3.85,bps_tpt_provinsi_triwulanan_2025.csv
+65,Kalimantan Utara,2025-11,3.83,bps_tpt_provinsi_triwulanan_2025.csv
+71,Sulawesi Utara,2025-02,6.03,bps_tpt_provinsi_triwulanan_2025.csv
+71,Sulawesi Utara,2025-08,5.99,bps_tpt_provinsi_triwulanan_2025.csv
+71,Sulawesi Utara,2025-11,5.78,bps_tpt_provinsi_triwulanan_2025.csv
+72,Sulawesi Tengah,2025-02,3.02,bps_tpt_provinsi_triwulanan_2025.csv
+72,Sulawesi Tengah,2025-08,2.92,bps_tpt_provinsi_triwulanan_2025.csv
+72,Sulawesi Tengah,2025-11,2.89,bps_tpt_provinsi_triwulanan_2025.csv
+73,Sulawesi Selatan,2025-02,4.96,bps_tpt_provinsi_triwulanan_2025.csv
+73,Sulawesi Selatan,2025-08,4.21,bps_tpt_provinsi_triwulanan_2025.csv
+73,Sulawesi Selatan,2025-11,4.45,bps_tpt_provinsi_triwulanan_2025.csv
+74,Sulawesi Tenggara,2025-02,3.27,bps_tpt_provinsi_triwulanan_2025.csv
+74,Sulawesi Tenggara,2025-08,3.31,bps_tpt_provinsi_triwulanan_2025.csv
+74,Sulawesi Tenggara,2025-11,3.33,bps_tpt_provinsi_triwulanan_2025.csv
+75,Gorontalo,2025-02,3.12,bps_tpt_provinsi_triwulanan_2025.csv
+75,Gorontalo,2025-08,3.42,bps_tpt_provinsi_triwulanan_2025.csv
+75,Gorontalo,2025-11,3.23,bps_tpt_provinsi_triwulanan_2025.csv
+76,Sulawesi Barat,2025-02,3.17,bps_tpt_provinsi_triwulanan_2025.csv
+76,Sulawesi Barat,2025-08,2.86,bps_tpt_provinsi_triwulanan_2025.csv
+76,Sulawesi Barat,2025-11,3.01,bps_tpt_provinsi_triwulanan_2025.csv
+81,Maluku,2025-02,5.95,bps_tpt_provinsi_triwulanan_2025.csv
+81,Maluku,2025-08,6.27,bps_tpt_provinsi_triwulanan_2025.csv
+81,Maluku,2025-11,6.11,bps_tpt_provinsi_triwulanan_2025.csv
+82,Maluku Utara,2025-02,4.26,bps_tpt_provinsi_triwulanan_2025.csv
+82,Maluku Utara,2025-08,4.55,bps_tpt_provinsi_triwulanan_2025.csv
+82,Maluku Utara,2025-11,4.44,bps_tpt_provinsi_triwulanan_2025.csv
+91,Papua Barat,2025-02,4.21,bps_tpt_provinsi_triwulanan_2025.csv
+91,Papua Barat,2025-08,4.55,bps_tpt_provinsi_triwulanan_2025.csv
+91,Papua Barat,2025-11,4.34,bps_tpt_provinsi_triwulanan_2025.csv
+92,Papua Barat Daya,2025-02,6.61,bps_tpt_provinsi_triwulanan_2025.csv
+92,Papua Barat Daya,2025-08,6.85,bps_tpt_provinsi_triwulanan_2025.csv
+92,Papua Barat Daya,2025-11,6.56,bps_tpt_provinsi_triwulanan_2025.csv
+94,Papua,2025-02,6.92,bps_tpt_provinsi_triwulanan_2025.csv
+94,Papua,2025-08,6.96,bps_tpt_provinsi_triwulanan_2025.csv
+94,Papua,2025-11,7.08,bps_tpt_provinsi_triwulanan_2025.csv
+95,Papua Selatan,2025-02,4.9,bps_tpt_provinsi_triwulanan_2025.csv
+95,Papua Selatan,2025-08,4.04,bps_tpt_provinsi_triwulanan_2025.csv
+95,Papua Selatan,2025-11,3.89,bps_tpt_provinsi_triwulanan_2025.csv
+96,Papua Tengah,2025-02,3.55,bps_tpt_provinsi_triwulanan_2025.csv
+96,Papua Tengah,2025-08,3.62,bps_tpt_provinsi_triwulanan_2025.csv
+96,Papua Tengah,2025-11,3.74,bps_tpt_provinsi_triwulanan_2025.csv
+97,Papua Pegunungan,2025-02,1.68,bps_tpt_provinsi_triwulanan_2025.csv
+97,Papua Pegunungan,2025-08,1.68,bps_tpt_provinsi_triwulanan_2025.csv
+97,Papua Pegunungan,2025-11,1.55,bps_tpt_provinsi_triwulanan_2025.csv
+00,Indonesia,2025-02,4.76,bps_tpt_provinsi_triwulanan_2025.csv
+00,Indonesia,2025-08,4.85,bps_tpt_provinsi_triwulanan_2025.csv
+00,Indonesia,2025-11,4.74,bps_tpt_provinsi_triwulanan_2025.csv
+11,Aceh,2026-02,5.88,bps_tpt_provinsi_triwulanan_2026.csv
+11,Aceh,2026-05,5.89,bps_tpt_provinsi_triwulanan_2026.csv
+11,Aceh,2026-08,5.7,bps_tpt_provinsi_triwulanan_2026.csv
+12,Sumatera Utara,2026-02,5.01,bps_tpt_provinsi_triwulanan_2026.csv
+12,Sumatera Utara,2026-05,5.03,bps_tpt_provinsi_triwulanan_2026.csv
+12,Sumatera Utara,2026-08,5.22,bps_tpt_provinsi_triwulanan_2026.csv
+13,Sumatera Barat,2026-02,5.51,bps_tpt_provinsi_triwulanan_2026.csv
+13,Sumatera Barat,2026-05,5.53,bps_tpt_provinsi_triwulanan_2026.csv
+13,Sumatera Barat,2026-08,5.57,bps_tpt_provinsi_triwulanan_2026.csv
+14,Riau,2026-02,4.09,bps_tpt_provinsi_triwulanan_2026.csv
+14,Riau,2026-05,4.09,bps_tpt_provinsi_triwulanan_2026.csv
+14,Riau,2026-08,4.12,bps_tpt_provinsi_triwulanan_2026.csv
+15,Jambi,2026-02,3.99,bps_tpt_provinsi_triwulanan_2026.csv
+15,Jambi,2026-05,4.1,bps_tpt_provinsi_triwulanan_2026.csv
+15,Jambi,2026-08,4.26,bps_tpt_provinsi_triwulanan_2026.csv
+16,Sumatera Selatan,2026-02,3.59,bps_tpt_provinsi_triwulanan_2026.csv
+16,Sumatera Selatan,2026-05,3.6,bps_tpt_provinsi_triwulanan_2026.csv
+16,Sumatera Selatan,2026-08,3.45,bps_tpt_provinsi_triwulanan_2026.csv
+17,Bengkulu,2026-02,3.23,bps_tpt_provinsi_triwulanan_2026.csv
+17,Bengkulu,2026-05,3.2,bps_tpt_provinsi_triwulanan_2026.csv
+17,Bengkulu,2026-08,3.4,bps_tpt_provinsi_triwulanan_2026.csv
+18,Lampung,2026-02,3.95,bps_tpt_provinsi_triwulanan_2026.csv
+18,Lampung,2026-05,3.97,bps_tpt_provinsi_triwulanan_2026.csv
+18,Lampung,2026-08,4.01,bps_tpt_provinsi_triwulanan_2026.csv
+19,Kep. Bangka Belitung,2026-02,4.15,bps_tpt_provinsi_triwulanan_2026.csv
+19,Kep. Bangka Belitung,2026-05,4.21,bps_tpt_provinsi_triwulanan_2026.csv
+19,Kep. Bangka Belitung,2026-08,4.4,bps_tpt_provinsi_triwulanan_2026.csv
+21,Kep. Riau,2026-02,6.87,bps_tpt_provinsi_triwulanan_2026.csv
+21,Kep. Riau,2026-05,6.45,bps_tpt_provinsi_triwulanan_2026.csv
+21,Kep. Riau,2026-08,6.37,bps_tpt_provinsi_triwulanan_2026.csv
+??,Dki Jakarta,2026-02,6.03,bps_tpt_provinsi_triwulanan_2026.csv
+??,Dki Jakarta,2026-05,5.79,bps_tpt_provinsi_triwulanan_2026.csv
+??,Dki Jakarta,2026-08,5.75,bps_tpt_provinsi_triwulanan_2026.csv
+32,Jawa Barat,2026-02,6.64,bps_tpt_provinsi_triwulanan_2026.csv
+32,Jawa Barat,2026-05,6.61,bps_tpt_provinsi_triwulanan_2026.csv
+32,Jawa Barat,2026-08,6.67,bps_tpt_provinsi_triwulanan_2026.csv
+33,Jawa Tengah,2026-02,4.24,bps_tpt_provinsi_triwulanan_2026.csv
+33,Jawa Tengah,2026-05,4.3,bps_tpt_provinsi_triwulanan_2026.csv
+33,Jawa Tengah,2026-08,4.65,bps_tpt_provinsi_triwulanan_2026.csv
+34,DI Yogyakarta,2026-02,3.05,bps_tpt_provinsi_triwulanan_2026.csv
+34,DI Yogyakarta,2026-05,3.11,bps_tpt_provinsi_triwulanan_2026.csv
+34,DI Yogyakarta,2026-08,3.33,bps_tpt_provinsi_triwulanan_2026.csv
+35,Jawa Timur,2026-02,3.55,bps_tpt_provinsi_triwulanan_2026.csv
+35,Jawa Timur,2026-05,3.42,bps_tpt_provinsi_triwulanan_2026.csv
+35,Jawa Timur,2026-08,3.6,bps_tpt_provinsi_triwulanan_2026.csv
+36,Banten,2026-02,6.59,bps_tpt_provinsi_triwulanan_2026.csv
+36,Banten,2026-05,6.48,bps_tpt_provinsi_triwulanan_2026.csv
+36,Banten,2026-08,6.61,bps_tpt_provinsi_triwulanan_2026.csv
+51,Bali,2026-02,1.59,bps_tpt_provinsi_triwulanan_2026.csv
+51,Bali,2026-05,1.52,bps_tpt_provinsi_triwulanan_2026.csv
+51,Bali,2026-08,1.42,bps_tpt_provinsi_triwulanan_2026.csv
+52,Nusa Tenggara Barat,2026-02,2.99,bps_tpt_provinsi_triwulanan_2026.csv
+52,Nusa Tenggara Barat,2026-05,2.98,bps_tpt_provinsi_triwulanan_2026.csv
+52,Nusa Tenggara Barat,2026-08,3.03,bps_tpt_provinsi_triwulanan_2026.csv
+53,Nusa Tenggara Timur,2026-02,3.16,bps_tpt_provinsi_triwulanan_2026.csv
+53,Nusa Tenggara Timur,2026-05,3.26,bps_tpt_provinsi_triwulanan_2026.csv
+53,Nusa Tenggara Timur,2026-08,3.42,bps_tpt_provinsi_triwulanan_2026.csv
+61,Kalimantan Barat,2026-02,4.57,bps_tpt_provinsi_triwulanan_2026.csv
+61,Kalimantan Barat,2026-05,4.46,bps_tpt_provinsi_triwulanan_2026.csv
+61,Kalimantan Barat,2026-08,4.87,bps_tpt_provinsi_triwulanan_2026.csv
+62,Kalimantan Tengah,2026-02,3.44,bps_tpt_provinsi_triwulanan_2026.csv
+62,Kalimantan Tengah,2026-05,3.59,bps_tpt_provinsi_triwulanan_2026.csv
+62,Kalimantan Tengah,2026-08,4.01,bps_tpt_provinsi_triwulanan_2026.csv
+63,Kalimantan Selatan,2026-02,3.8,bps_tpt_provinsi_triwulanan_2026.csv
+63,Kalimantan Selatan,2026-05,3.81,bps_tpt_provinsi_triwulanan_2026.csv
+63,Kalimantan Selatan,2026-08,4.04,bps_tpt_provinsi_triwulanan_2026.csv
+64,Kalimantan Timur,2026-02,5.27,bps_tpt_provinsi_triwulanan_2026.csv
+64,Kalimantan Timur,2026-05,5.24,bps_tpt_provinsi_triwulanan_2026.csv
+64,Kalimantan Timur,2026-08,5.23,bps_tpt_provinsi_triwulanan_2026.csv
+65,Kalimantan Utara,2026-02,3.9,bps_tpt_provinsi_triwulanan_2026.csv
+65,Kalimantan Utara,2026-05,3.9,bps_tpt_provinsi_triwulanan_2026.csv
+65,Kalimantan Utara,2026-08,3.79,bps_tpt_provinsi_triwulanan_2026.csv
+71,Sulawesi Utara,2026-02,5.75,bps_tpt_provinsi_triwulanan_2026.csv
+71,Sulawesi Utara,2026-05,5.85,bps_tpt_provinsi_triwulanan_2026.csv
+71,Sulawesi Utara,2026-08,5.9,bps_tpt_provinsi_triwulanan_2026.csv
+72,Sulawesi Tengah,2026-02,2.95,bps_tpt_provinsi_triwulanan_2026.csv
+72,Sulawesi Tengah,2026-05,2.97,bps_tpt_provinsi_triwulanan_2026.csv
+72,Sulawesi Tengah,2026-08,2.94,bps_tpt_provinsi_triwulanan_2026.csv
+73,Sulawesi Selatan,2026-02,4.95,bps_tpt_provinsi_triwulanan_2026.csv
+73,Sulawesi Selatan,2026-05,4.66,bps_tpt_provinsi_triwulanan_2026.csv
+73,Sulawesi Selatan,2026-08,4.23,bps_tpt_provinsi_triwulanan_2026.csv
+74,Sulawesi Tenggara,2026-02,3.25,bps_tpt_provinsi_triwulanan_2026.csv
+74,Sulawesi Tenggara,2026-05,3.47,bps_tpt_provinsi_triwulanan_2026.csv
+74,Sulawesi Tenggara,2026-08,3.52,bps_tpt_provinsi_triwulanan_2026.csv
+75,Gorontalo,2026-02,3.17,bps_tpt_provinsi_triwulanan_2026.csv
+75,Gorontalo,2026-05,3.35,bps_tpt_provinsi_triwulanan_2026.csv
+75,Gorontalo,2026-08,3.61,bps_tpt_provinsi_triwulanan_2026.csv
+76,Sulawesi Barat,2026-02,2.93,bps_tpt_provinsi_triwulanan_2026.csv
+76,Sulawesi Barat,2026-05,2.89,bps_tpt_provinsi_triwulanan_2026.csv
+76,Sulawesi Barat,2026-08,2.93,bps_tpt_provinsi_triwulanan_2026.csv
+81,Maluku,2026-02,5.8,bps_tpt_provinsi_triwulanan_2026.csv
+81,Maluku,2026-05,5.75,bps_tpt_provinsi_triwulanan_2026.csv
+81,Maluku,2026-08,6.23,bps_tpt_provinsi_triwulanan_2026.csv
+82,Maluku Utara,2026-02,4.46,bps_tpt_provinsi_triwulanan_2026.csv
+82,Maluku Utara,2026-05,4.4,bps_tpt_provinsi_triwulanan_2026.csv
+82,Maluku Utara,2026-08,4.57,bps_tpt_provinsi_triwulanan_2026.csv
+91,Papua Barat,2026-02,4.1,bps_tpt_provinsi_triwulanan_2026.csv
+91,Papua Barat,2026-05,4.19,bps_tpt_provinsi_triwulanan_2026.csv
+91,Papua Barat,2026-08,4.29,bps_tpt_provinsi_triwulanan_2026.csv
+92,Papua Barat Daya,2026-02,6.41,bps_tpt_provinsi_triwulanan_2026.csv
+92,Papua Barat Daya,2026-05,6.38,bps_tpt_provinsi_triwulanan_2026.csv
+92,Papua Barat Daya,2026-08,6.56,bps_tpt_provinsi_triwulanan_2026.csv
+94,Papua,2026-02,7.02,bps_tpt_provinsi_triwulanan_2026.csv
+94,Papua,2026-05,7.08,bps_tpt_provinsi_triwulanan_2026.csv
+94,Papua,2026-08,7.12,bps_tpt_provinsi_triwulanan_2026.csv
+95,Papua Selatan,2026-02,5.25,bps_tpt_provinsi_triwulanan_2026.csv
+95,Papua Selatan,2026-05,5.29,bps_tpt_provinsi_triwulanan_2026.csv
+95,Papua Selatan,2026-08,5.17,bps_tpt_provinsi_triwulanan_2026.csv
+96,Papua Tengah,2026-02,3.83,bps_tpt_provinsi_triwulanan_2026.csv
+96,Papua Tengah,2026-05,3.81,bps_tpt_provinsi_triwulanan_2026.csv
+96,Papua Tengah,2026-08,3.87,bps_tpt_provinsi_triwulanan_2026.csv
+97,Papua Pegunungan,2026-02,1.7,bps_tpt_provinsi_triwulanan_2026.csv
+97,Papua Pegunungan,2026-05,1.86,bps_tpt_provinsi_triwulanan_2026.csv
+97,Papua Pegunungan,2026-08,1.83,bps_tpt_provinsi_triwulanan_2026.csv
+00,Indonesia,2026-02,4.68,bps_tpt_provinsi_triwulanan_2026.csv
+00,Indonesia,2026-05,4.65,bps_tpt_provinsi_triwulanan_2026.csv
+00,Indonesia,2026-08,4.75,bps_tpt_provinsi_triwulanan_2026.csv

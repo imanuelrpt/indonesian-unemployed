@@ -1,0 +1,10 @@
+tahun,kategori,pendidikan,kelompok_pendidikan,nilai,satuan,sumber_file
+2023,Tidak Sekolah,Tidak sekolah,SD ke bawah,93.0,persen,bps_informal_pendidikan_2023.csv
+2023,Tidak Tamat SD/MI,Tidak tamat SD,SD ke bawah,85.04,persen,bps_informal_pendidikan_2023.csv
+2023,SD,SD,SD ke bawah,77.35,persen,bps_informal_pendidikan_2023.csv
+2023,SMP,SMP,SMP,68.09,persen,bps_informal_pendidikan_2023.csv
+2023,SMA Umum,SMA,SMA,50.34,persen,bps_informal_pendidikan_2023.csv
+2023,SMA Kejuruan,SMK,SMK,38.97,persen,bps_informal_pendidikan_2023.csv
+2023,Diploma I/II/III,Diploma,Diploma,27.35,persen,bps_informal_pendidikan_2023.csv
+2023,Universitas,Sarjana,Sarjana,17.3,persen,bps_informal_pendidikan_2023.csv
+2023,Indonesia,Indonesia,Indonesia,59.11,persen,bps_informal_pendidikan_2023.csv

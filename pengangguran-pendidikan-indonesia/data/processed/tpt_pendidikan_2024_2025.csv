@@ -1,0 +1,19 @@
+periode,tahun,kelompok_pendidikan,pengangguran,angkatan_kerja,tpt,sumber_data,sumber_file
+2024-02,2024,Diploma,173846.0,3569412.0,4.87,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-02,2024,SD ke bawah,1265448.0,53218669.0,2.38,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-02,2024,SMA,2107781.0,31328066.0,6.73,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-02,2024,SMK,1621672.0,18807128.0,8.62,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-02,2024,SMP,1154255.0,26962544.0,4.28,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-02,2024,Sarjana,871860.0,15488089.0,5.63,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-08,2024,Diploma,170527.0,3529623.0,4.83,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-08,2024,SD ke bawah,1228158.0,53013295.0,2.32,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-08,2024,SMA,2293359.0,32527868.0,7.05,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-08,2024,SMK,1840162.0,20432932.0,9.01,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-08,2024,SMP,1091015.0,26568780.0,4.11,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2024-08,2024,Sarjana,842378.0,16035105.0,5.25,seri 2008-2024 (dihitung),bps_pendidikan_jenis_kegiatan_2008_2024.csv (diolah)
+2025-02,2025,SD ke bawah,,,2.3,tabel 2025 (terbitan BPS),bps_tpt_pendidikan_2025.csv
+2025-02,2025,SMP,,,3.8,tabel 2025 (terbitan BPS),bps_tpt_pendidikan_2025.csv
+2025-02,2025,SMA,,,6.88,tabel 2025 (terbitan BPS),bps_tpt_pendidikan_2025.csv
+2025-02,2025,SMK,,,8.63,tabel 2025 (terbitan BPS),bps_tpt_pendidikan_2025.csv
+2025-02,2025,Diploma,,,4.31,tabel 2025 (terbitan BPS),bps_tpt_pendidikan_2025.csv
+2025-02,2025,Sarjana,,,5.39,tabel 2025 (terbitan BPS),bps_tpt_pendidikan_2025.csv
