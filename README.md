@@ -31,24 +31,7 @@ Berkas CSV mentah disimpan di data/raw, dan hasil pembersihan diolah menjadi 12 
 
 ---
 
-## Gift Khas Data Analyst
-
-Sebagai hadiah akhir proyek, berikut 7 Golden Rules Data Analyst yang harus Anda ingat:
-
-1. Cek data sebelum cek jawaban Distribusi data yang membingungkan menghasilkan conclusi yang salah.
-2. Visualisasi sebelum visualisasi akhir Plot data sebelum membuat grafik final cari outlier dan anomali.
-3. Korelasi kauzalitas Korelasi positif hanya petunjuk bukan kesimpulan akhir.
-4. Data bersih lebih penting dari data lengkap Hilangkan outliers yang valid tapi tidak relevan jangan diam diam hapus.
-5. Semprebutasi bisa membunuh Selalu uji model insight periode yang berbeda jangan anggap tren akan terus berlanjut.
-6. Komunikasi yang jelas lebih berharga dari akurasi tinggi Insight yang bisa dipahami stakeholder lebih baik daripada model kompleks tapi tidak dipahami.
-7. Semprebutasi data adalah keterampilan terbaik Selalu coba lihat data dari sudut pandang yang berbeda carilah perseptif baru.
-
+##
 ---
-
-# Sumber Data
-
-Semua data diambil dari BPS (Badan Pusat Statistik) melalui situs bps.go.id. Setiap file mentah diunduh menggunakan tombol "Unduh CSV" pada halaman tabel statistik.
-
-Berkas CSV mentah disimpan di data/raw dan hasil pembersihan diolah menjadi 12 tabel analisis di data/processed. Semua logika pembersihan ada di src/cleaning.py serta 11 fungsi grafik di src/plots.py.
-
----
+*Semua grafik tersimpan di outputs/figures/ dan dapat diverifikasi melalui tabel di data/processed/.
+*Semua kode siap dijalankan kembali kapan saja dengan python -m src.cleaning.*
